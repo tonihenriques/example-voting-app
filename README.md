@@ -4,6 +4,11 @@ Example Voting App
 A simple distributed application running across multiple Docker containers.
 
 Getting started
+
+![tempsnip](https://user-images.githubusercontent.com/22334765/190859439-4ea6a57a-35de-4044-9866-078973e220f8.png)
+
+
+
 ---------------
 
 Download [Docker Desktop](https://www.docker.com/products/docker-desktop) for Mac or Windows. [Docker Compose](https://docs.docker.com/compose) will be automatically installed. On Linux, make sure you have the latest version of [Compose](https://docs.docker.com/compose/install/). 
